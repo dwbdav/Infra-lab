@@ -1,0 +1,17 @@
+# LeBlogOSD
+
+Base documentaire et scripts autour de l'administration poste de travail, du deploiement, de la securite et des outils endpoint.
+
+## Structure
+
+- `tanium/` : deploiement, patch, provisioning, client et environnements on-prem.
+- `intune/` : Autopilot, applications, conformite et remediations.
+- `windows/` : PowerShell, deploiement Windows, troubleshooting et securite.
+- `ivanti/` : Ivanti EPM et SQL.
+- `kace/` : scripts et automatisations KACE.
+
+## Regles de contenu
+
+- Ne pas commiter de secrets, tokens, mots de passe, exports clients ou donnees nominatives.
+- Placer les scripts reutilisables dans le dossier correspondant a leur technologie.
+- Ajouter un `README.md` dans les sous-dossiers importants quand le contenu devient significatif.
