@@ -1,6 +1,6 @@
 # Extract and Analyze Health ZIP
 
-Source article: to be linked when the matching blog post is published or identified.
+Source article: https://blog.wuibaille.fr/2026/06/tanium-tools-and-scripts-library/
 
 ## Purpose
 
