@@ -1,6 +1,6 @@
 # Export MDT Folders
 
-Source article: https://blog.wuibaille.fr/2025/08/mdt-export-drivers-packages-os-apps/
+Source article: to be linked when the matching blog post is published or identified.
 
 ## Purpose
 
