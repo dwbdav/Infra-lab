@@ -2,6 +2,8 @@
 
 PowerShell scripts to reset the Windows Update client cache when scan, download, or install states are stuck.
 
+Source article: [Tanium Patch Troubleshooting and Deployment Checks](https://blog.wuibaille.fr/2025/07/tanium-patch/)
+
 ## Scripts
 
 | Script | Purpose | Impact |
