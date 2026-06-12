@@ -12,13 +12,13 @@ Run `smartctl.exe` from Quest SMA to collect basic disk information and write th
 
 ## Dependency
 
-The original source folder included `smartctl.exe` from smartmontools. It is not committed here because this public repository should avoid redistributing third-party binaries.
+`smartctl.exe` from smartmontools is included in this folder for the Quest SMA dependency package.
 
-Download smartmontools if needed:
+Project site:
 
 https://www.smartmontools.org/
 
-Place `smartctl.exe` in the same folder as `ScanHDD.bat` before deploying the files as Quest SMA dependencies.
+Deploy `ScanHDD.bat` and `smartctl.exe` together as Quest SMA dependencies.
 
 ## Quest SMA inventory rule
 
@@ -31,4 +31,4 @@ ShellCommandTextReturn(c:\windows\system32\cmd.exe /c type C:\Windows\HDD-Info-A
 - No GitHub token detected.
 - No password, API key or bearer token pattern detected.
 - No email, internal URL, private IP or UNC path detected.
-- `smartctl.exe` was identified as a smartmontools binary and intentionally excluded.
+- `smartctl.exe` was identified as a smartmontools binary and intentionally included.
