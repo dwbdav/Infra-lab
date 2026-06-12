@@ -7,7 +7,6 @@ Base documentaire et scripts autour de l'administration poste de travail, du dep
 - `tanium/` : deploiement, patch, provisioning, client et environnements on-prem.
 - `intune/` : Autopilot, applications, conformite et remediations.
 - `mdt/` : scripts, outils et notes Microsoft Deployment Toolkit.
-- `windows/` : PowerShell, deploiement Windows, troubleshooting et securite.
 - `wsus/` : scripts et automatisations WSUS et Windows Update.
 - `ivanti/` : Ivanti EPM et SQL.
 - `kace/` : scripts et automatisations KACE.
