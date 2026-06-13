@@ -13,6 +13,7 @@ Base documentaire et scripts autour de l'administration poste de travail, du dep
 - `scripts/` : scripts PowerShell generiques d'administration.
 - `tools/` : outils d'administration Windows et utilitaires.
 - `infra/` : scripts d'administration infrastructure.
+- `drivers/` : scripts BIOS, outils de telechargement et packs drivers.
 - `ivanti/` : Ivanti EPM et SQL.
 - `kace/` : scripts et automatisations KACE.
 
