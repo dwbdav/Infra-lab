@@ -8,6 +8,7 @@ Base documentaire et scripts autour de l'administration poste de travail, du dep
 - `intune/` : Autopilot, applications, conformite et remediations.
 - `mdt/` : scripts, outils et notes Microsoft Deployment Toolkit.
 - `wsus/` : scripts et automatisations WSUS et Windows Update.
+- `master/` : scripts et modeles pour la preparation d'images Windows.
 - `ivanti/` : Ivanti EPM et SQL.
 - `kace/` : scripts et automatisations KACE.
 
