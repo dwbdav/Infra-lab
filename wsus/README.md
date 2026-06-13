@@ -11,4 +11,5 @@ Scripts and notes for WSUS administration, Windows Update troubleshooting, repor
 - `generate-windows-update-log/` : generate readable Windows Update logs.
 - `install-msu-web-download/` : direct MSU download and silent install.
 - `report-failed-computers/` : failed computer reporting.
+- `report-top-error-computers/` : top WSUS error computer reporting.
 - `reset-windows-update-agent/` : Windows Update Agent reset scripts.
