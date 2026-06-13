@@ -11,6 +11,8 @@ Base documentaire et scripts autour de l'administration poste de travail, du dep
 - `master/` : scripts et modeles pour la preparation d'images Windows.
 - `packaging/` : scripts de packaging et d'installation applicative.
 - `scripts/` : scripts PowerShell generiques d'administration.
+- `tools/` : outils d'administration Windows et utilitaires.
+- `infra/` : scripts d'administration infrastructure.
 - `ivanti/` : Ivanti EPM et SQL.
 - `kace/` : scripts et automatisations KACE.
 
