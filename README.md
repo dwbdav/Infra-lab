@@ -10,6 +10,7 @@ Base documentaire et scripts autour de l'administration poste de travail, du dep
 - `wsus/` : scripts et automatisations WSUS et Windows Update.
 - `master/` : scripts et modeles pour la preparation d'images Windows.
 - `packaging/` : scripts de packaging et d'installation applicative.
+- `scripts/` : scripts PowerShell generiques d'administration.
 - `ivanti/` : Ivanti EPM et SQL.
 - `kace/` : scripts et automatisations KACE.
 
