@@ -9,11 +9,13 @@ Source article: TBD
 | Script | Purpose |
 | --- | --- |
 | `Remove-KB.ps1` | Checks whether a KB is installed, then calls `Remove-WindowsUpdate`. |
+| `uninstallKB.ps1` | Original script variant using `Remove-WindowsUpdate`. |
 
 ## Requirements
 
 - Run PowerShell as Administrator.
-- Install the `PSWindowsUpdate` module if it is not already available:
+- The repository includes the original `PSWindowsUpdate\2.2.0.3` module copy from the source folder.
+- You can also install or update the module from PowerShell Gallery if preferred:
 
 ```powershell
 Install-Module PSWindowsUpdate -Scope CurrentUser
@@ -42,4 +44,4 @@ Remove-WindowsUpdate -KBArticleID KB5028952 -NoRestart -Confirm:$false
 
 - Some updates, especially Servicing Stack Updates, cannot be uninstalled.
 - A restart may be required after removal.
-- The source folder contained a local copy of the `PSWindowsUpdate` module; it is intentionally not published here.
+- Review the KB number before running the removal script on production devices.

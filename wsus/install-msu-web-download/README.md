@@ -1,14 +1,17 @@
-# Install MSU From Direct Download
+# Install MSU From Web Download
 
 Download a Microsoft Update Catalog `.msu` file, run basic prerequisites, install it silently with `wusa.exe`, and return the native installer exit code.
 
 Source article: [Tanium Patch Troubleshooting and Deployment Checks](https://blog.wuibaille.fr/2025/07/tanium-patch/)
 
-## Script
+## Scripts
 
 | Script | Purpose |
 | --- | --- |
 | `Install-MSU-Direct.ps1` | Downloads one direct Microsoft Update Catalog MSU URL and installs it with `wusa.exe /quiet /norestart`. |
+| `installmsu.ps1` | Original direct download variant. |
+| `installmsuv2.ps1` | Variant that reads patch metadata from a web JSON endpoint and posts status messages to a web endpoint. |
+| `installmsuv3.ps1` | Variant that combines web status reporting with `PSWindowsUpdate` checks. |
 
 ## Checks
 
@@ -16,6 +19,7 @@ Source article: [Tanium Patch Troubleshooting and Deployment Checks](https://blo
 - Free space on `C:` lower than 5 GB: exits `103`
 - Download failure: exits `104`
 - `wusa.exe` return code is returned as the script exit code
+- The web variants add their own status codes and remote reporting logic.
 
 ## Usage
 
@@ -34,6 +38,6 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\Install-MSU-Direct.ps1
 
 ## Notes
 
-- The MSU is downloaded to `C:\Windows\Temp`.
-- Logs are written to `C:\Windows\Temp\MSU_Install.log`.
-- The source folder also contained lab variants using a personal webservice endpoint; those variants are intentionally not published here.
+- The direct MSU variants download files to `C:\Windows\Temp`.
+- Logs are written to `C:\Windows\Temp\MSU_Install.log` when using the normalized script.
+- The web variants contain the original lab endpoint URLs and should be adapted before reuse outside that lab.
