@@ -9,3 +9,4 @@ Scripts, tools, and notes for Ivanti Endpoint Manager.
 - `deploy-add-to-task/` : add devices to an EPM scheduled task through MBSDK.
 - `deploy-remove-old-tasks/` : delete old EPM scheduled tasks through MBSDK.
 - `epm-console-extender/` : right-click troubleshooting actions for the EPM console.
+- `manage-range-preferred-server/` : generate SQL for preferred server IP ranges.
