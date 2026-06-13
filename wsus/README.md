@@ -14,3 +14,4 @@ Scripts and notes for WSUS administration, Windows Update troubleshooting, repor
 - `report-top-error-computers/` : top WSUS error computer reporting.
 - `reset-windows-update-agent/` : Windows Update Agent reset scripts.
 - `uninstall-kb-pswindowsupdate/` : uninstall a KB with PSWindowsUpdate.
+- `uninstall-kb-remove-windows-package/` : uninstall a KB with Remove-WindowsPackage.
