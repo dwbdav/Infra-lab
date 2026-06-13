@@ -13,8 +13,8 @@ Source article: [Provisionning - WinPE with Ivanti EPM](https://blog.wuibaille.f
 | `CreateISOx86.bat` | Creates an x86 WinPE ISO from the EPM Core WIM. |
 | `choice_x64.exe` | Copied into x64 WinPE as `choice.exe` for keyboard selection. |
 | `choice_x86.exe` | Copied into x86 WinPE as `choice.exe` for keyboard selection. |
-| `Drivers/x64/` | Place x64 WinPE drivers here before injection. |
-| `Drivers/x86/` | Place x86 WinPE drivers here before injection. |
+| `Drivers/x64/` | x64 WinPE drivers injected by `ManageWinPE.ps1`. |
+| `Drivers/x86/` | x86 WinPE drivers injected by `ManageWinPE.ps1`. |
 
 ## Usage
 
@@ -34,5 +34,5 @@ CreateISOx86.bat epm.example.local
 ## Notes
 
 - Run from an elevated deployment/admin workstation with the Windows ADK installed.
-- The original source folder contained a large driver pack. It is intentionally not included here; add the required drivers to `Drivers/x64` and `Drivers/x86` locally before running the tool.
+- The WinPE driver pack is included in `Drivers/x64` and `Drivers/x86`.
 - The script backs up the original WIM before mounting and saving changes.
