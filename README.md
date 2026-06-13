@@ -14,6 +14,7 @@ Base documentaire et scripts autour de l'administration poste de travail, du dep
 - `tools/` : outils d'administration Windows et utilitaires.
 - `infra/` : scripts d'administration infrastructure.
 - `drivers/` : scripts BIOS, outils de telechargement et packs drivers.
+- `security/` : scripts securite, TPM et BitLocker.
 - `ivanti/` : Ivanti EPM et SQL.
 - `kace/` : scripts et automatisations KACE.
 
