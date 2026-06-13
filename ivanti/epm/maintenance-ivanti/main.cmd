@@ -1,0 +1,1 @@
+powershell -file "C:\Scripts\Exploitation\ExploitBox.ps1"
