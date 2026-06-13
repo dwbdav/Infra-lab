@@ -10,3 +10,4 @@ Scripts, tools, and notes for Ivanti Endpoint Manager.
 - `deploy-remove-old-tasks/` : delete old EPM scheduled tasks through MBSDK.
 - `epm-console-extender/` : right-click troubleshooting actions for the EPM console.
 - `manage-range-preferred-server/` : generate SQL for preferred server IP ranges.
+- `manage-winpe/` : customize and rebuild Ivanti EPM WinPE images.
