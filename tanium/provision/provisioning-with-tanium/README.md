@@ -1,10 +1,11 @@
-# Tanium Provisioning: 7 Easy Steps Guide
+# Tanium Provisioning Step-by-Step: Build and Deploy Windows with PXE
 
 Source article: https://blog.wuibaille.fr/2024/08/provisioning-with-tanium/
 
 ## Purpose
 
-Example Windows `unattend.xml` file for a Tanium Provision deployment workflow.
+Resources used by the Tanium Provision step-by-step PXE deployment guide.
+The article covers prerequisites, resource preparation, OS bundle creation, PXE setup, deployment, and first troubleshooting checks.
 
 ## Files
 
