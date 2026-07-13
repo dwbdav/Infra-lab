@@ -2,7 +2,7 @@
 
 Security administration scripts for TPM, BitLocker and endpoint hardening.
 
-Blog category: [Security](https://blog.wuibaille.fr/category/administration/security/)
+Blog category: [Security](https://blog.infra-lab.fr/category/administration/security/)
 
 ## Folders
 

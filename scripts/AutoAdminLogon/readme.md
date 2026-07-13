@@ -30,4 +30,4 @@ powershell -ExecutionPolicy Bypass -File .\Enable.ps1
   Use only on lab/kiosk machines, never for privileged or domain admin accounts.
 - For a local account, set `$DefaultDomaine` to the computer name (or `.`).
 
-🔗 More details: **[Activate Autologon with Windows 10](https://blog.wuibaille.fr/2023/07/activate-autologon-with-windows-10/)**
+🔗 More details: **[Activate Autologon with Windows 10](https://blog.infra-lab.fr/2023/07/activate-autologon-with-windows-10/)**

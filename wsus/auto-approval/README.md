@@ -1,6 +1,6 @@
 # WSUS Auto Approval
 
-Source article: https://blog.wuibaille.fr/2024/10/automate-assign-patch-to-group/
+Source article: https://blog.infra-lab.fr/2024/10/automate-assign-patch-to-group/
 
 ## Purpose
 

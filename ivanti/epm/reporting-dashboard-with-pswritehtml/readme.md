@@ -2,7 +2,7 @@
 
 PowerShell examples used to generate HTML dashboards from Ivanti EPM SQL inventory data with the `PSWriteHTML` module.
 
-Source article: [Create a dashboard with PswriteHTML with Ivanti EPM](https://blog.wuibaille.fr/2024/09/report-html-with-epm/)
+Source article: [Create a dashboard with PswriteHTML with Ivanti EPM](https://blog.infra-lab.fr/2024/09/report-html-with-epm/)
 
 ## Files
 

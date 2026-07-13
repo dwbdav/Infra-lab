@@ -2,7 +2,7 @@
 
 Batch scripts for running a Windows in-place upgrade from local setup media.
 
-Blog category: [Windows Master Images](https://blog.wuibaille.fr/category/administration/master/)
+Blog category: [Windows Master Images](https://blog.infra-lab.fr/category/administration/master/)
 
 ## Files
 

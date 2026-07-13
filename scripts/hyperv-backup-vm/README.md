@@ -2,7 +2,7 @@
 
 PowerShell script that exports Hyper-V virtual machines matching `*Backup_*` and copies the export to a backup share.
 
-Blog category: [Infra](https://blog.wuibaille.fr/category/administration/infra-administration/)
+Blog category: [Infra](https://blog.infra-lab.fr/category/administration/infra-administration/)
 
 ## File
 

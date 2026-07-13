@@ -2,7 +2,7 @@
 
 PowerShell scripts used as Ivanti EPM Console Extender right-click actions for device troubleshooting.
 
-Source article: [Adding Scripts to the Console](https://blog.wuibaille.fr/2023/04/epm-ajout-de-scripts-dans-la-console/)
+Source article: [Adding Scripts to the Console](https://blog.infra-lab.fr/2023/04/epm-ajout-de-scripts-dans-la-console/)
 
 ## Scripts
 

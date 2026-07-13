@@ -2,7 +2,7 @@
 
 Windows registry template for using Active Setup with an AdminStudio/MSI deployment.
 
-Source article: [Windows Taskbar Customization with Windows Master Images](https://blog.wuibaille.fr/2023/12/windows-taskbar-customization/)
+Source article: [Windows Taskbar Customization with Windows Master Images](https://blog.infra-lab.fr/2023/12/windows-taskbar-customization/)
 
 ## File
 

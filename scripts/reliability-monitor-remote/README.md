@@ -2,7 +2,7 @@
 
 Tooling for displaying Windows Reliability Monitor history remotely.
 
-Source article: [How to Display the Reliability Monitor with Windows Master Images](https://blog.wuibaille.fr/2024/05/how-to-display-the-reliability-monitor/)
+Source article: [How to Display the Reliability Monitor with Windows Master Images](https://blog.infra-lab.fr/2024/05/how-to-display-the-reliability-monitor/)
 
 ## Files
 

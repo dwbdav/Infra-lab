@@ -1,6 +1,6 @@
 # Windows 10 x64 Unattend Example for Quest SDA
 
-Source article: https://blog.wuibaille.fr/2023/04/sda-deploiement-de-windows-11-par-script/
+Source article: https://blog.infra-lab.fr/2023/04/sda-deploiement-de-windows-11-par-script/
 
 ## Purpose
 

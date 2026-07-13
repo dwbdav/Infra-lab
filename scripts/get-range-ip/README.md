@@ -2,7 +2,7 @@
 
 PowerShell function that calculates the first and last usable IPv4 host addresses from a gateway and subnet mask.
 
-Blog category: [PowerShell Administration Scripts](https://blog.wuibaille.fr/category/administration/scripts-administration/)
+Blog category: [PowerShell Administration Scripts](https://blog.infra-lab.fr/category/administration/scripts-administration/)
 
 ## File
 

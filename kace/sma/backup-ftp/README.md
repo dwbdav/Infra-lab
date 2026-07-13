@@ -1,6 +1,6 @@
 # Backup Quest SMA Files with FTP
 
-Source article: https://blog.wuibaille.fr/2023/04/sma-installation-de-la-solution/
+Source article: https://blog.infra-lab.fr/2023/04/sma-installation-de-la-solution/
 
 ## Purpose
 

@@ -2,7 +2,7 @@
 
 PowerShell script for configuring Windows Shell Launcher with a custom shell for a target account.
 
-Blog category: [Windows Master Images](https://blog.wuibaille.fr/category/administration/master/)
+Blog category: [Windows Master Images](https://blog.infra-lab.fr/category/administration/master/)
 
 ## File
 

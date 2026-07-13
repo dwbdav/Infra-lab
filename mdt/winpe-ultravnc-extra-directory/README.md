@@ -1,6 +1,6 @@
 # Add UltraVNC to MDT WinPE
 
-Source article: https://blog.wuibaille.fr/2024/05/adding-tools-to-winpe/
+Source article: https://blog.infra-lab.fr/2024/05/adding-tools-to-winpe/
 
 ## Purpose
 

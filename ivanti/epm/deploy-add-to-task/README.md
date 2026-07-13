@@ -2,7 +2,7 @@
 
 PowerShell WPF GUI to add one or more computers to an Ivanti EPM scheduled task through the MBSDK web service.
 
-Source article: [API - GetMachineData or GetMachineDataEx with Ivanti EPM](https://blog.wuibaille.fr/2023/04/epm-getmachinedata-et-getmachinedataex/)
+Source article: [API - GetMachineData or GetMachineDataEx with Ivanti EPM](https://blog.infra-lab.fr/2023/04/epm-getmachinedata-et-getmachinedataex/)
 
 ## Script
 

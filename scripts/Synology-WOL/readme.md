@@ -15,4 +15,4 @@ This project shows how to create a simple **Wake-on-LAN (WOL) web interface** ho
 
 ## 🚀 Installation
 
-[WOL with synology](https://blog.wuibaille.fr/2024/08/wol-with-synology/)
+[WOL with synology](https://blog.infra-lab.fr/2024/08/wol-with-synology/)

@@ -2,7 +2,7 @@
 
 PowerShell `Write-Progress` snippet for displaying progress while processing a list of computers.
 
-Blog category: [PowerShell Administration Scripts](https://blog.wuibaille.fr/category/administration/scripts-administration/)
+Blog category: [PowerShell Administration Scripts](https://blog.infra-lab.fr/category/administration/scripts-administration/)
 
 ## File
 

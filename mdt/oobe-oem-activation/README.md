@@ -1,6 +1,6 @@
 # MDT OOBE and OEM Activation Applications
 
-Source article: https://blog.wuibaille.fr/2023/04/deploiement-de-windows-11-en-oobe-avec-mdt/
+Source article: https://blog.infra-lab.fr/2023/04/deploiement-de-windows-11-en-oobe-avec-mdt/
 
 ## Purpose
 

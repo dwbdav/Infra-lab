@@ -2,7 +2,7 @@
 
 PowerShell script that checks common Windows pending reboot indicators and reacts depending on whether a user session is active.
 
-Source article: [Deploy - Force Reboot after Installation with Ivanti EPM](https://blog.wuibaille.fr/2023/05/gestion-des-demandes-de-reboot/)
+Source article: [Deploy - Force Reboot after Installation with Ivanti EPM](https://blog.infra-lab.fr/2023/05/gestion-des-demandes-de-reboot/)
 
 ## File
 

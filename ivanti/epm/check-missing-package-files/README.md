@@ -2,7 +2,7 @@
 
 Validate that Ivanti EPM package file references still exist for HTTP/HTTPS and UNC package paths.
 
-Source article: [Deploy - change paths in SQL with Ivanti EPM](https://blog.wuibaille.fr/2023/04/epm-changement-des-chemins-des-packages-en-bdd/)
+Source article: [Deploy - change paths in SQL with Ivanti EPM](https://blog.infra-lab.fr/2023/04/epm-changement-des-chemins-des-packages-en-bdd/)
 
 ## Script
 

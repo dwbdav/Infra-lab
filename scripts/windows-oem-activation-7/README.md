@@ -2,7 +2,7 @@
 
 OEM certificate files used by legacy Windows 7 activation workflows.
 
-Source article: [Windows 11 OEM Activation](https://blog.wuibaille.fr/2023/05/activation-oem-windows-11/)
+Source article: [Windows 11 OEM Activation](https://blog.infra-lab.fr/2023/05/activation-oem-windows-11/)
 
 ## Content
 
