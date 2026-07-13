@@ -2,7 +2,7 @@
 
 PowerShell scripts for building Windows 11 multilingual installation media.
 
-Blog category: [Windows Master Images](https://blog.wuibaille.fr/category/administration/master/)
+Blog category: [Windows Master Images](https://blog.infra-lab.fr/category/administration/master/)
 
 ## Files
 

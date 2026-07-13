@@ -2,7 +2,7 @@
 
 PowerShell example for enabling Windows automatic logon through the `Winlogon` registry keys.
 
-Source article: [Setting Up Automatic Login in Windows 10 with Windows Master Images](https://blog.wuibaille.fr/2023/07/activate-autologon-with-windows-10/)
+Source article: [Setting Up Automatic Login in Windows 10 with Windows Master Images](https://blog.infra-lab.fr/2023/07/activate-autologon-with-windows-10/)
 
 ## File
 

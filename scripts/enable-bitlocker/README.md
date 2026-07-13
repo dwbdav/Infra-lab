@@ -2,7 +2,7 @@
 
 PowerShell automation for enabling TPM and BitLocker on Windows devices.
 
-Source article: [Configuring BitLocker with Windows Security Administration](https://blog.wuibaille.fr/2023/03/deployer-bitlocker-en-entreprise/)
+Source article: [Configuring BitLocker with Windows Security Administration](https://blog.infra-lab.fr/2023/03/deployer-bitlocker-en-entreprise/)
 
 ## Files
 

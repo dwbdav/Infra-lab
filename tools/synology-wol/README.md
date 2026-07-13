@@ -2,7 +2,7 @@
 
 Simple Wake-on-LAN web interface for Synology Web Station.
 
-Source article: [WOL with synology with Windows Administration Tools](https://blog.wuibaille.fr/2024/08/wol-with-synology/)
+Source article: [WOL with synology with Windows Administration Tools](https://blog.infra-lab.fr/2024/08/wol-with-synology/)
 
 ## Files
 

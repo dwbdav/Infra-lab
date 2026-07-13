@@ -1,6 +1,6 @@
 # Tanium Provisioning Step-by-Step: Build and Deploy Windows with PXE
 
-Source article: https://blog.wuibaille.fr/2024/08/provisioning-with-tanium/
+Source article: https://blog.infra-lab.fr/2024/08/provisioning-with-tanium/
 
 ## Purpose
 

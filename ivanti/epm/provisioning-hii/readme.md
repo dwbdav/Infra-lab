@@ -2,7 +2,7 @@
 
 Driver injection helpers for Ivanti EPM provisioning. The scripts detect the computer vendor and model, locate the matching driver folder, and inject drivers into the offline Windows image.
 
-Source article: [Provisionning - Alternative to Ivanti HII](https://blog.wuibaille.fr/2023/04/epm-hii-ps1-alternative-au-hii-ivanti/)
+Source article: [Provisionning - Alternative to Ivanti HII](https://blog.infra-lab.fr/2023/04/epm-hii-ps1-alternative-au-hii-ivanti/)
 
 ## Files
 

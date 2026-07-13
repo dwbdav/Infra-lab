@@ -2,7 +2,7 @@
 
 PowerShell script that enables HP BIOS virtualization settings through `root/hp/instrumentedBIOS`.
 
-Blog category: [Bios & Drivers](https://blog.wuibaille.fr/category/administration/drivers/)
+Blog category: [Bios & Drivers](https://blog.infra-lab.fr/category/administration/drivers/)
 
 ## File
 

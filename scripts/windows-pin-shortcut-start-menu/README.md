@@ -2,7 +2,7 @@
 
 VBScript helper for pinning a shortcut to the Windows Start menu.
 
-Blog category: [Windows Master Images](https://blog.wuibaille.fr/category/administration/master/)
+Blog category: [Windows Master Images](https://blog.infra-lab.fr/category/administration/master/)
 
 ## File
 

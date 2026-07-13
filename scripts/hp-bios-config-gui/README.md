@@ -2,7 +2,7 @@
 
 PowerShell and WPF tool to audit and apply selected HP BIOS settings.
 
-Blog category: [Bios & Drivers](https://blog.wuibaille.fr/category/administration/drivers/)
+Blog category: [Bios & Drivers](https://blog.infra-lab.fr/category/administration/drivers/)
 
 ## File
 

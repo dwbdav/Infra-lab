@@ -11,4 +11,4 @@ Runs **BGInfo** with your `.bgi` layout **silently**, auto‑accepts EULA, and a
 - `Bginfo.exe` and your `.bgi` file must be in the **same folder**.  
 - Run as part of a **GPO logon script** or manually.
 
-🔗 Help & setup guide: **[Deploying BGInfo via GPO](https://blog.wuibaille.fr/2024/05/deploying-bginfo-via-gpo/)**
+🔗 Help & setup guide: **[Deploying BGInfo via GPO](https://blog.infra-lab.fr/2024/05/deploying-bginfo-via-gpo/)**

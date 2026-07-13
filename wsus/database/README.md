@@ -1,6 +1,6 @@
 # WSUS Database
 
-Source article: [Move the WSUS Integrated SUSDB Database](https://blog.wuibaille.fr/2023/04/deplacer-la-bdd-integre-de-wsus/)
+Source article: [Move the WSUS Integrated SUSDB Database](https://blog.infra-lab.fr/2023/04/deplacer-la-bdd-integre-de-wsus/)
 
 ## Purpose
 

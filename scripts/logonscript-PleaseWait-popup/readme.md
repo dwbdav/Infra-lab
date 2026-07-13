@@ -32,4 +32,4 @@ powershell -sta -ExecutionPolicy Bypass -File .\PleaseWaitLogon.ps1 `
   -ArgMesWindow "Configuration" -ArgMes "Please wait`nInstallation in progress" -CloseTime 60
 ```
 
-🔗 More details: **[Creating a Custom Logon Script Using PowerShell and WPF](https://blog.wuibaille.fr/2024/08/creating-a-custom-logon-script-using-powershell-and-wpf/)**
+🔗 More details: **[Creating a Custom Logon Script Using PowerShell and WPF](https://blog.infra-lab.fr/2024/08/creating-a-custom-logon-script-using-powershell-and-wpf/)**

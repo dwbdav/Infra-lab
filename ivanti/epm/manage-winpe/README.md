@@ -2,7 +2,7 @@
 
 Tools to customize Ivanti EPM WinPE boot images: back up and mount the WIM, edit `startnet.cmd`, update `corename.txt`, inject drivers, and generate ISO files.
 
-Source article: [Provisionning - WinPE with Ivanti EPM](https://blog.wuibaille.fr/2023/04/epm-gestion-des-winpe/)
+Source article: [Provisionning - WinPE with Ivanti EPM](https://blog.infra-lab.fr/2023/04/epm-gestion-des-winpe/)
 
 ## Files
 

@@ -2,7 +2,7 @@
 
 Download a Microsoft Update Catalog `.msu` file, run basic prerequisites, install it silently with `wusa.exe`, and return the native installer exit code.
 
-Source article: [Tanium Patch Troubleshooting and Deployment Checks](https://blog.wuibaille.fr/2025/07/tanium-patch/)
+Source article: [Tanium Patch Troubleshooting and Deployment Checks](https://blog.infra-lab.fr/2025/07/tanium-patch/)
 
 ## Scripts
 

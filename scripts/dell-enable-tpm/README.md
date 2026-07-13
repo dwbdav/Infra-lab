@@ -2,7 +2,7 @@
 
 PowerShell script and DellBIOSProvider module copy for enabling TPM on Dell systems.
 
-Source article: [TPM Activation with Windows Security Administration](https://blog.wuibaille.fr/2023/05/activation-des-puces-tpm/)
+Source article: [TPM Activation with Windows Security Administration](https://blog.infra-lab.fr/2023/05/activation-des-puces-tpm/)
 
 ## Files
 

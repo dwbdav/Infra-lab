@@ -2,7 +2,7 @@
 
 PowerShell WPF GUI for selecting and downloading Dell driver packs from the Dell DriverPackCatalog.
 
-Source article: [Driver Installation Tools with BIOS and Driver Management](https://blog.wuibaille.fr/2023/05/differentes-methodes-dinstallation-des-drivers/)
+Source article: [Driver Installation Tools with BIOS and Driver Management](https://blog.infra-lab.fr/2023/05/differentes-methodes-dinstallation-des-drivers/)
 
 ## Files
 

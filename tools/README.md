@@ -2,7 +2,7 @@
 
 Windows administration tools and small utilities.
 
-Blog category: [Windows Administration Tools](https://blog.wuibaille.fr/category/administration/tools/)
+Blog category: [Windows Administration Tools](https://blog.infra-lab.fr/category/administration/tools/)
 
 ## Folders
 

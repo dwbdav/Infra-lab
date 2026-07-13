@@ -2,7 +2,7 @@
 
 PowerShell script that reads the OEM product key embedded in BIOS and activates Windows.
 
-Source article: [Windows 11 OEM Activation](https://blog.wuibaille.fr/2023/05/activation-oem-windows-11/)
+Source article: [Windows 11 OEM Activation](https://blog.infra-lab.fr/2023/05/activation-oem-windows-11/)
 
 ## File
 

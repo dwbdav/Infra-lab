@@ -1,6 +1,6 @@
 # Tanium Provision: Add a Choose Job Profile Prompt
 
-Source article: https://blog.wuibaille.fr/2026/05/tanium-provision-job-profile/
+Source article: https://blog.infra-lab.fr/2026/05/tanium-provision-job-profile/
 
 ## Purpose
 

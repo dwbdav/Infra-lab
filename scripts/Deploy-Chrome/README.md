@@ -2,7 +2,7 @@
 
 PowerShell installer for Google Chrome Enterprise MSI.
 
-Source article: [Deploy Applications with Quest SMA Managed Installations](https://blog.wuibaille.fr/2023/04/sma-distributions-des-applications/)
+Source article: [Deploy Applications with Quest SMA Managed Installations](https://blog.infra-lab.fr/2023/04/sma-distributions-des-applications/)
 
 ## File
 

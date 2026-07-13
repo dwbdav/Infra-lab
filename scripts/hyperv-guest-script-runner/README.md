@@ -2,7 +2,7 @@
 
 PowerShell helper for running commands or scripts inside Hyper-V guest virtual machines from the host.
 
-Blog category: [Infra](https://blog.wuibaille.fr/category/administration/infra-administration/)
+Blog category: [Infra](https://blog.infra-lab.fr/category/administration/infra-administration/)
 
 ## File
 

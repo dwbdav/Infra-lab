@@ -1,6 +1,6 @@
 # Pre-Installation Diskpart Tasks with Quest SDA
 
-Source article: https://blog.wuibaille.fr/2023/04/sda-taches-de-pre-installation-diskpart/
+Source article: https://blog.infra-lab.fr/2023/04/sda-taches-de-pre-installation-diskpart/
 
 ## Purpose
 

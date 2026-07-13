@@ -2,7 +2,7 @@
 
 Windows `unattend.xml` template used with Ivanti EPM OS provisioning for Windows 10 or Windows 11 deployments.
 
-Source article: [Provisionning - Deployment of Windows 10 with Ivanti EPM](https://blog.wuibaille.fr/2023/04/epm-deploiement-de-windows-10/)
+Source article: [Provisionning - Deployment of Windows 10 with Ivanti EPM](https://blog.infra-lab.fr/2023/04/epm-deploiement-de-windows-10/)
 
 ## Files
 

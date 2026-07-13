@@ -1,6 +1,6 @@
 # HDD Info Analyser with Quest SMA
 
-Source article: https://blog.wuibaille.fr/2023/04/sma-utilisation-des-scripts/
+Source article: https://blog.infra-lab.fr/2023/04/sma-utilisation-des-scripts/
 
 ## Purpose
 

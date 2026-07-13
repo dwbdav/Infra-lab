@@ -2,7 +2,7 @@
 
 Generate SQL statements to add or remove IP ranges from Ivanti EPM preferred servers.
 
-Source article: [Server - Preferred Server with Ivanti EPM](https://blog.wuibaille.fr/2023/04/epm-gestion-des-preferred-server/)
+Source article: [Server - Preferred Server with Ivanti EPM](https://blog.infra-lab.fr/2023/04/epm-gestion-des-preferred-server/)
 
 ## Script
 

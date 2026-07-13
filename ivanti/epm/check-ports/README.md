@@ -2,7 +2,7 @@
 
 PowerShell Windows Forms GUI to test common network ports and ICMP ping against a target host.
 
-Source article: [Server - Core Installation with Ivanti EPM](https://blog.wuibaille.fr/2023/04/epm-installation-du-core-server/)
+Source article: [Server - Core Installation with Ivanti EPM](https://blog.infra-lab.fr/2023/04/epm-installation-du-core-server/)
 
 ![Screenshot](./screenshot.jpg)
 
